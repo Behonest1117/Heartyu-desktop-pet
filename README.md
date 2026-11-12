@@ -58,9 +58,15 @@ Heartyu 会有不同的反应 ♡
 
 ## 🐶 关于 Heartyu
 
+<div align="center">
+
+<img src="Heartyu surface.png" width="400" alt="Heartyu preview">
+
+</div>
+
 **Heartyu（하튜）** 是一只住在桌面上的金毛寻回犬。
 
-它的名字来自 **Heart** 和它最喜欢挂在句尾的 **tyu**。听起来像一句轻轻的 “heart you”——一只为你比心的小金毛。
+它的名字来自 **Heart** 和它最喜欢挂在句尾的 **tyu**。听起来像一句轻轻的 “heart you”。
 
 Heartyu 有着明亮而温暖的性格。它爱笑、爱撒娇、擅长跳舞，也总想带着望远镜去进行下一段冒险。
 
